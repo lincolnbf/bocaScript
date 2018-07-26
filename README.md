@@ -27,7 +27,10 @@ os scripts.
 
 É necessário ter um arquivo chamado input.txt contendo a lista dos usuários separados por quebra de linha.
 <i>Exemplo</i>
+
 Usuário1
+
 Usuário2
+
 Usuário3
 
