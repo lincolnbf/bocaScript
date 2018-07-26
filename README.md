@@ -19,7 +19,7 @@ Executar o arquivo main
 ```
 O resultado será gerado no arquivo output1
 
-<h5>Observação<h5>
+<h5>Observação</h5>
 
 O programa possui três funções para gerar diferentes listas de usuário, mude o arquivo main.cpp a chamada do método 
 start_reading para ter diferentes resultados. O arquivo gerado poder ser colocado direto no sistema BOCA no local de inserir
